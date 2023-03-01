@@ -1,2 +1,2 @@
-# auto-analytics-proto
+# Desktop Application for Automated Swimming Analytics
 Swimming Analytics
